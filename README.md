@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tiramisoo.netlify.app/">
+    <a href="https://kombuchaa.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -30,7 +30,8 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://user-images.githubusercontent.com/38065503/200649708-9e5d0104-87e2-4ed2-bb01-c4433bff15ab.png)
+![screenshot](https://user-images.githubusercontent.com/38065503/200650032-8ad739ae-e394-41f2-aea1-a77fe6ed6082.png)
 
 ### Built With
 
